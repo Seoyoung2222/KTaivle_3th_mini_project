@@ -115,7 +115,7 @@ uv sync
 
 ### 실행
 ```bash
-python apps/root_app/agent.py
+adk web apps
 ```
 
 ### 입력 예시
